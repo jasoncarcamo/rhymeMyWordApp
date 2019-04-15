@@ -18,9 +18,9 @@ function getWords(){
     let ouroption = $('#relatedto').val()
     let url = '';
     if(ouroption){
-        url = `http://api.datamuse.com/words?rel_rhy=${ourinput}&ml=${ouroption}`;
+        url = `https://api.datamuse.com/words?rel_rhy=${ourinput}&ml=${ouroption}`;
     }else{
-        url = `http://api.datamuse.com/words?rel_rhy=${ourinput}`;
+        url = `https://api.datamuse.com/words?rel_rhy=${ourinput}`;
     }
     
     
