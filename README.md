@@ -2,9 +2,11 @@
 # Live app: https://jasoncarcamo.github.io/rhymeMyWordApp/
 A simple app to help you find rhyming words.  
 
-![ImageOfApp](./rhymeMyApp.png)
-![ImageOfApp](./rhymeappword1.png)
-![ImageOfApp](./rhymeappword2.png)
+![ImageOfApp](./rhymeMyApp.png)<br/>
+
+![ImageOfApp](./rhymeappword1.png)<br/>
+
+![ImageOfApp](./rhymeappword2.png)<br/>
 
 # Built with
 - Html
