@@ -1,3 +1,9 @@
 # rhymeMyWordApp
+# Live app: https://jasoncarcamo.github.io/rhymeMyWordApp/
+A simple app to help you find rhyming words.  
 
-Live app: https://jasoncarcamo.github.io/rhymeMyWordApp/
+
+# Built with
+- Html
+- Css
+- Jquery
