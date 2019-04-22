@@ -24,7 +24,12 @@ function getWords(){
     }
     
     
-    fetch(url)
+    fetch(url, {
+        method: 'GET',
+        headers: {
+            'Access-Control-Allow-Origin': 'Origin'
+        }
+    })
     .then(response => response.json())
     .then(responseJson => {
         if(responseJson.length === 0){
