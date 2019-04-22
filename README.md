@@ -8,6 +8,9 @@ A simple app to help you find rhyming words.
 
 ![ImageOfApp](./rhymeappword2.png)<br/>
 
+# Summary
+This simple app allows you to find rhyming words with an option to display related words of the desired word.
+
 # Built with
 - Html
 - Css
