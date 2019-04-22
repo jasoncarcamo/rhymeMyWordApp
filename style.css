@@ -75,24 +75,29 @@ button:hover{
 
 #wordlist{
     display: grid;
+    grid-gap: 1.3em;
     grid-template: 1fr / 1fr 1fr;
     font-size: 1.1em;
+    text-align: left;
 }
 
-#wordlist li{
-    margin: 0 auto;
-}
 
-@media only screen and (min-width: 480px){
+
+@media only screen and (min-width: 500px){
     form{
         width: 70%;
     }
 
     #wordlist{
         display: grid;
+    
         grid-template: 1fr / 1fr 1fr 1fr;
         font-size: 1.125em;
         line-height: 1.6em;
+    }
+
+    #wordlist li{
+        
     }
 }
 
